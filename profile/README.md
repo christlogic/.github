@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christlogic/.github/main/profile/assets/readme-wordmark-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christlogic/.github/main/profile/assets/readme-wordmark-light.svg">
